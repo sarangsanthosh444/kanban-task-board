@@ -127,35 +127,35 @@ The application was tested for:
 ### Main Kanban Board Interface
 The dashboard showing the three workflow columns: **Todo, In Progress, and Done**.
 
-![Main Kanban Board](./Screenshots/board.png)
+![Main Kanban Board](.sScreenshots/board.png)
 
 ---
 
 ### Creating a New Task
 A popup modal that allows users to enter a **task title and optional description**.
 
-![Create Task](./Screenshots/add-task.png)
+![Create Task](./screenshots/add-task.png)
 
 ---
 
 ### Task Management and Workflow Tracking
 Tasks can be dragged between columns to represent workflow progress.
 
-![Task Management](./Screenshots/tasks.png)
+![Task Management](./screenshots/tasks.png)
 
 ---
 
 ### Setting Task Priority
 Users can assign **High, Medium, or Low priority** using colored indicators.
 
-![Task Priority](./Screenshots/priority.png)
+![Task Priority](./screenshots/priority.png)
 
 ---
 
 ### Dark Mode Interface
 The application supports **dark mode**, allowing users to switch between light and dark themes.
 
-![Dark Mode](./Screenshots/darkmode.png)
+![Dark Mode](./screenshots/darkmode.png)
 ## 👨‍💻 Author
 
 **Sarang Santhosh**
