@@ -3,6 +3,8 @@
 A **Kanban-style task management web application** built using **React, JavaScript, HTML, and CSS**.
 The application allows users to organize tasks across different workflow stages using a visual Kanban board.
 
+**LIVE LINK FOR THE APP->**https://kanban-task-board-otp2.vercel.app/
+
 ---
 
 ## 🚀 Features
